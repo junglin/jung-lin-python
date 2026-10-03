@@ -1,7 +1,7 @@
 # Section 1: Variables and Types
 name = "Jung"
 age = 27
-height = "5.5"
+height = 5.5
 is_student = True
 
 print(name, type(name))
